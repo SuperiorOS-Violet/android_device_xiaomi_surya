@@ -50,7 +50,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap
+    GoogleCamera
 
 # Device Settings
 PRODUCT_PACKAGES += \
